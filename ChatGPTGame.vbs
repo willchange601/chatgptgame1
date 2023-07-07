@@ -1,0 +1,5 @@
+X=MsgBox("ChatGPT is down at the moment. Would you like to retry?",4+64,"ChatGPTGame")
+X=MsgBox("Could not retry, this is probably because their is a virus on windows. Would you like to scan?",4+32,"ChatGPTGame")
+X=MsgBox("Virus found, would you want to get rid of this?",4+64,"ChatGPTGame")
+X=MsgBox("Error: Could not get rid of virus.",5+48,"ChatGPTGame")
+X=MsgBox("Virus needs admin permission. Cannot get rid of virus.?@%^#^!*#^&!&#@*",0+16,"ChatGPTGame")
